@@ -32,4 +32,4 @@ while True:
     sleep_ms(100)
 ```
 
-code referenced from [tuupola's mpu6500](https://github.com/tuupola/micropython-mpu9250/blob/master/mpu6500.py)
+Code stolen from [tuupola's mpu6500](https://github.com/tuupola/micropython-mpu9250/blob/master/mpu6500.py)
